@@ -1,11 +1,10 @@
-===================
-Homebrew 源使用帮助
-===================
+Homebrew
+==========
 
 由于tencent的homebrew源有问题，所以暂用科大源替代。
 
 科大源安装 Homebrew / Linuxbrew
-=====================================
+---------------------------------
 
 首先在命令行运行如下几条命令设置环境变量：
 
@@ -48,7 +47,7 @@ Homebrew 源使用帮助
 
 
 Linux Homebrew参考设置
-======================
+--------------------------
 
 .. code-block:: bash
 
@@ -74,7 +73,7 @@ Linux Homebrew参考设置
 
 
 通过brew安装的vim启动时出现错误
-===============================
+--------------------------------
 
 解决方法：
 
@@ -83,8 +82,8 @@ Linux Homebrew参考设置
     brew reinstall --build-from-source vim
 
 
-相关链接
-========
+brew相关链接
+-------------
 
 :科大文档: https://mirrors.ustc.edu.cn/help/brew.git.html
 :官方主页: http://brew.sh/

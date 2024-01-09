@@ -11,8 +11,7 @@ Develop Notes
    conv_arithmetic
    backpropagation
    floating_point
-   cmake
-   brew.git
+   env/index
 
 
 
